@@ -1,0 +1,16 @@
+.navItem {
+  color: white;
+  position: relative;
+  text-decoration: none;
+}
+.navItem:hover::after {
+  border-bottom: 1px solid #dbff00;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.active {
+  border-bottom-width: 1px;
+  border-bottom: solid #dbff00;
+}
