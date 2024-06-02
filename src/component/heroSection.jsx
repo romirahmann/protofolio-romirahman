@@ -75,7 +75,7 @@ export default function HeroSection() {
             data-aos="zoom-in-left"
           >
             <img
-              src="../../public/img/hero-foto.png"
+              src="/public/img/hero-foto.png"
               className="w-[36em] max-w-full"
               alt=""
             />
