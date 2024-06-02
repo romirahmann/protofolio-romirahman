@@ -83,7 +83,7 @@ export default function ServiceSection() {
             <ItemService
               title="FrontEnd Developer"
               total={totalProjectByCategory(1)}
-              srcImg="./../../public/img/frontend.jpg"
+              srcImg="/img/frontend.jpg"
             />
           </div>
 
@@ -94,7 +94,7 @@ export default function ServiceSection() {
             <ItemService
               title="FullStack Developer"
               total={totalProjectByCategory(2)}
-              srcImg="./../../public/img/frontend.jpg"
+              srcImg="/img/frontend.jpg"
             />
           </div>
         </div>

@@ -17,7 +17,7 @@ export default {
       secondary: "#DBFF00",
     },
     backgroundImage: {
-      "bg-service": "url('./public/img/bg-service.png')",
+      "bg-service": "url('/img/bg-service.png')",
     },
   },
   plugins: [flowbite.plugin()],

@@ -4,19 +4,16 @@
     "title": "Personal Portoflio Website",
     "description": "(Personal Project). Website portofolio pribadi yang menampilkan keahlian dan proyek saya sebagai Pengembang Frontend dan Fullstack. Dibangun dengan React.js dan Tailwind CSS untuk style, situs ini menyediakan antarmuka pengguna yang intuitif dan responsif untuk menampilkan profil profesional saya secara efektif.",
     "completed_date": "2024",
-    "techStack": [
-      "./../../public/img/texhStack/reactJs.png",
-      "./../../public/img/texhStack/tailwind.png"
-    ],
+    "techStack": ["/img/texhStack/reactJs.png", "/img/texhStack/tailwind.png"],
     "category": 1,
-    "thumbnail": "./../../public/img/project/project.png",
+    "thumbnail": "/img/project/project.png",
     "img": [
-      "./../../public/img/project/personalPortofolio/porto (3).png",
-      "./../../public/img/project/personalPortofolio/porto (2).png",
-      "./../../public/img/project/personalPortofolio/porto (1).png",
-      "./../../public/img/project/personalPortofolio/porto (4).png",
-      "./../../public/img/project/personalPortofolio/porto (5).png",
-      "./../../public/img/project/personalPortofolio/porto (6).png"
+      "/img/project/personalPortofolio/porto (3).png",
+      "/img/project/personalPortofolio/porto (2).png",
+      "/img/project/personalPortofolio/porto (1).png",
+      "/img/project/personalPortofolio/porto (4).png",
+      "/img/project/personalPortofolio/porto (5).png",
+      "/img/project/personalPortofolio/porto (6).png"
     ],
     "repository": [
       {
@@ -32,22 +29,22 @@
     "description": "(Client Project).  Website PERSUNI KPS Bogor ini merupakan website untuk monitoring pemasukan dan pengeluaran susu dari member PERSUNI KPS Bogor. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
     "completed_date": "2024",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/tailwind.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/tailwind.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/Persuni/persuni (2).png",
+    "thumbnail": "/img/project/Persuni/persuni (2).png",
     "img": [
-      "./../../public/img/project/Persuni/persuni (2).png",
-      "./../../public/img/project/Persuni/persuni (1).png",
+      "/img/project/Persuni/persuni (2).png",
+      "/img/project/Persuni/persuni (1).png",
 
-      "./../../public/img/project/Persuni/persuni (3).png",
-      "./../../public/img/project/Persuni/persuni (4).png",
-      "./../../public/img/project/Persuni/persuni (5).png",
-      "./../../public/img/project/Persuni/persuni (6).png",
-      "./../../public/img/project/Persuni/persuni (7).png",
-      "./../../public/img/project/Persuni/persuni (8).png"
+      "/img/project/Persuni/persuni (3).png",
+      "/img/project/Persuni/persuni (4).png",
+      "/img/project/Persuni/persuni (5).png",
+      "/img/project/Persuni/persuni (6).png",
+      "/img/project/Persuni/persuni (7).png",
+      "/img/project/Persuni/persuni (8).png"
     ],
     "repository": [
       {
@@ -63,18 +60,18 @@
     "description": "(Client Project). Website GudangKop merupakan website untuk monitoring dan pendataan barang. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
     "completed_date": "2024",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/tailwind.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/tailwind.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/GudangKop/gudang (2).png",
+    "thumbnail": "/img/project/GudangKop/gudang (2).png",
     "img": [
-      "./../../public/img/project/GudangKop/gudang (2).png",
-      "./../../public/img/project/GudangKop/gudang (1).png",
-      "./../../public/img/project/GudangKop/gudang (3).png",
-      "./../../public/img/project/GudangKop/gudang (4).png",
-      "./../../public/img/project/GudangKop/gudang (5).png"
+      "/img/project/GudangKop/gudang (2).png",
+      "/img/project/GudangKop/gudang (1).png",
+      "/img/project/GudangKop/gudang (3).png",
+      "/img/project/GudangKop/gudang (4).png",
+      "/img/project/GudangKop/gudang (5).png"
     ],
     "repository": [
       {
@@ -90,23 +87,23 @@
     "description": "(Client Project). THM Reporting ini merupakan website untuk manajemen dan monitoring pelaporan lembur serta absensi karyawan THM. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
     "completed_date": "",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/tailwind.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/tailwind.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/THM Reporting/report (2).png",
+    "thumbnail": "/img/project/THM Reporting/report (2).png",
     "img": [
-      "./../../public/img/project/THM Reporting/report (2).png",
-      "./../../public/img/project/THM Reporting/report (1).png",
+      "/img/project/THM Reporting/report (2).png",
+      "/img/project/THM Reporting/report (1).png",
 
-      "./../../public/img/project/THM Reporting/report (3).png",
-      "./../../public/img/project/THM Reporting/report (4).png",
-      "./../../public/img/project/THM Reporting/report (5).png",
-      "./../../public/img/project/THM Reporting/report (6).png",
-      "./../../public/img/project/THM Reporting/report (7).png",
-      "./../../public/img/project/THM Reporting/report (8).png",
-      "./../../public/img/project/THM Reporting/report (9).png"
+      "/img/project/THM Reporting/report (3).png",
+      "/img/project/THM Reporting/report (4).png",
+      "/img/project/THM Reporting/report (5).png",
+      "/img/project/THM Reporting/report (6).png",
+      "/img/project/THM Reporting/report (7).png",
+      "/img/project/THM Reporting/report (8).png",
+      "/img/project/THM Reporting/report (9).png"
     ],
     "repository": [
       {
@@ -122,20 +119,20 @@
     "description": "(Client Project). Reimbursement THM merupakan website untuk melakukan manajemen dan monitoring reimburst yang diajukan oleh karyawan THM. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
     "completed_date": "",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/tailwind.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/tailwind.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/THM Reimbursement/thm (2).png",
+    "thumbnail": "/img/project/THM Reimbursement/thm (2).png",
     "img": [
-      "./../../public/img/project/THM Reimbursement/thm (2).png",
-      "./../../public/img/project/THM Reimbursement/thm (1).png",
-      "./../../public/img/project/THM Reimbursement/thm (3).png",
-      "./../../public/img/project/THM Reimbursement/thm (4).png",
-      "./../../public/img/project/THM Reimbursement/thm (5).png",
-      "./../../public/img/project/THM Reimbursement/thm (6).png",
-      "./../../public/img/project/THM Reimbursement/thm (7).png"
+      "/img/project/THM Reimbursement/thm (2).png",
+      "/img/project/THM Reimbursement/thm (1).png",
+      "/img/project/THM Reimbursement/thm (3).png",
+      "/img/project/THM Reimbursement/thm (4).png",
+      "/img/project/THM Reimbursement/thm (5).png",
+      "/img/project/THM Reimbursement/thm (6).png",
+      "/img/project/THM Reimbursement/thm (7).png"
     ],
     "repository": [
       {
@@ -151,18 +148,18 @@
     "description": "(Client Project). Sistem Tax Flash adalah sebuah aplikasi berbasis website yang bertujuan untuk pembuatan laporan threshold kesebandingan. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
     "completed_date": "",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/tailwind.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/tailwind.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/taxFlash/taxFlash (2).png",
+    "thumbnail": "/img/project/taxFlash/taxFlash (2).png",
     "img": [
-      "./../../public/img/project/taxFlash/taxFlash (2).png",
-      "./../../public/img/project/taxFlash/taxFlash (1).png",
-      "./../../public/img/project/taxFlash/taxFlash (3).png",
-      "./../../public/img/project/taxFlash/taxFlash (4).png",
-      "./../../public/img/project/taxFlash/taxFlash (5).png"
+      "/img/project/taxFlash/taxFlash (2).png",
+      "/img/project/taxFlash/taxFlash (1).png",
+      "/img/project/taxFlash/taxFlash (3).png",
+      "/img/project/taxFlash/taxFlash (4).png",
+      "/img/project/taxFlash/taxFlash (5).png"
     ],
     "repository": [
       {
@@ -178,24 +175,24 @@
     "description": "Sistem ini merupakan hasil kolaborasi saya dengan seorang teman selama magang di PT Amerta Indah Otsuka sebagai web developer. Saya bertanggung jawab atas pengembangan modul E-Learning SOP dan Maintenance Part. Proyek ini dikerjakan secara fullstack, menggunakan Angular sebagai framework untuk frontend dan Node.js untuk backend.",
     "completed_date": "",
     "techStack": [
-      "./../../public/img/texhStack/Angular.png",
-      "./../../public/img/texhStack/NodeJs.png",
-      "./../../public/img/texhStack/boostrap.png"
+      "/img/texhStack/Angular.png",
+      "/img/texhStack/NodeJs.png",
+      "/img/texhStack/boostrap.png"
     ],
     "category": 2,
-    "thumbnail": "./../../public/img/project/monitoringAl4/monitoringAL4 (2).png",
+    "thumbnail": "/img/project/monitoringAl4/monitoringAL4 (2).png",
     "img": [
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (2).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (1).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (3).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (4).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (5).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (6).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (7).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (8).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (9).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (10).png",
-      "./../../public/img/project/monitoringAl4/monitoringAL4 (11).png"
+      "/img/project/monitoringAl4/monitoringAL4 (2).png",
+      "/img/project/monitoringAl4/monitoringAL4 (1).png",
+      "/img/project/monitoringAl4/monitoringAL4 (3).png",
+      "/img/project/monitoringAl4/monitoringAL4 (4).png",
+      "/img/project/monitoringAl4/monitoringAL4 (5).png",
+      "/img/project/monitoringAl4/monitoringAL4 (6).png",
+      "/img/project/monitoringAl4/monitoringAL4 (7).png",
+      "/img/project/monitoringAl4/monitoringAL4 (8).png",
+      "/img/project/monitoringAl4/monitoringAL4 (9).png",
+      "/img/project/monitoringAl4/monitoringAL4 (10).png",
+      "/img/project/monitoringAl4/monitoringAL4 (11).png"
     ],
     "repository": [
       {

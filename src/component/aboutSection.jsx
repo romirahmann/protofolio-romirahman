@@ -20,7 +20,7 @@ export default function AboutSection() {
           <div className="profile flex flex-col items-center">
             <img
               data-aos="fade-up"
-              src="../../public/img/hero-foto.png"
+              src="/img/hero-foto.png"
               className="w-[20em] max-w-full"
               alt=""
             />

@@ -14,7 +14,7 @@ import { motion } from "framer-motion";
 /* eslint-disable react/no-unescaped-entities */
 export default function HeroSection() {
   let downloadCv = () => {
-    const pdfUrl = "/public/file/CV ATS - Romi Rahman.pdf";
+    const pdfUrl = "/file/CV ATS - Romi Rahman.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "CV-Romi Rahman.pdf"; // Nama file yang diunduh
