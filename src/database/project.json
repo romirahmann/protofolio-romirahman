@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "title": "Personal Portoflio Website",
+    "description": "(Personal Project). Website portofolio pribadi yang menampilkan keahlian dan proyek saya sebagai Pengembang Frontend dan Fullstack. Dibangun dengan React.js dan Tailwind CSS untuk style, situs ini menyediakan antarmuka pengguna yang intuitif dan responsif untuk menampilkan profil profesional saya secara efektif.",
+    "completed_date": "2024",
+    "techStack": [
+      "./../../public/img/texhStack/reactJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 1,
+    "thumbnail": "./../../public/img/project/project.png",
+    "img": [
+      "./../../public/img/project/personalPortofolio/porto (3).png",
+      "./../../public/img/project/personalPortofolio/porto (2).png",
+      "./../../public/img/project/personalPortofolio/porto (1).png",
+      "./../../public/img/project/personalPortofolio/porto (4).png",
+      "./../../public/img/project/personalPortofolio/porto (5).png",
+      "./../../public/img/project/personalPortofolio/porto (6).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "",
+        "back_end": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "PERSUNI KPS Bogor",
+    "description": "(Client Project).  Website PERSUNI KPS Bogor ini merupakan website untuk monitoring pemasukan dan pengeluaran susu dari member PERSUNI KPS Bogor. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
+    "completed_date": "2024",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/Persuni/persuni (2).png",
+    "img": [
+      "./../../public/img/project/Persuni/persuni (2).png",
+      "./../../public/img/project/Persuni/persuni (1).png",
+
+      "./../../public/img/project/Persuni/persuni (3).png",
+      "./../../public/img/project/Persuni/persuni (4).png",
+      "./../../public/img/project/Persuni/persuni (5).png",
+      "./../../public/img/project/Persuni/persuni (6).png",
+      "./../../public/img/project/Persuni/persuni (7).png",
+      "./../../public/img/project/Persuni/persuni (8).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "https://github.com/romirahmann/frontend-fauziah.git",
+        "back_end": "https://github.com/romirahmann/backend-fauziah.git"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "GudangKop",
+    "description": "(Client Project). Website GudangKop merupakan website untuk monitoring dan pendataan barang. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
+    "completed_date": "2024",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/GudangKop/gudang (2).png",
+    "img": [
+      "./../../public/img/project/GudangKop/gudang (2).png",
+      "./../../public/img/project/GudangKop/gudang (1).png",
+      "./../../public/img/project/GudangKop/gudang (3).png",
+      "./../../public/img/project/GudangKop/gudang (4).png",
+      "./../../public/img/project/GudangKop/gudang (5).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "https://github.com/romirahmann/frontend-azlia.git",
+        "back_end": "https://github.com/romirahmann/backend-azlia.git"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "THM Reporting",
+    "description": "(Client Project). THM Reporting ini merupakan website untuk manajemen dan monitoring pelaporan lembur serta absensi karyawan THM. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
+    "completed_date": "",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/THM Reporting/report (2).png",
+    "img": [
+      "./../../public/img/project/THM Reporting/report (2).png",
+      "./../../public/img/project/THM Reporting/report (1).png",
+
+      "./../../public/img/project/THM Reporting/report (3).png",
+      "./../../public/img/project/THM Reporting/report (4).png",
+      "./../../public/img/project/THM Reporting/report (5).png",
+      "./../../public/img/project/THM Reporting/report (6).png",
+      "./../../public/img/project/THM Reporting/report (7).png",
+      "./../../public/img/project/THM Reporting/report (8).png",
+      "./../../public/img/project/THM Reporting/report (9).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "https://github.com/romirahmann/frontend-deti.git",
+        "back_end": "https://github.com/romirahmann/backend-deti.git"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Reimbursement THM",
+    "description": "(Client Project). Reimbursement THM merupakan website untuk melakukan manajemen dan monitoring reimburst yang diajukan oleh karyawan THM. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
+    "completed_date": "",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/THM Reimbursement/thm (2).png",
+    "img": [
+      "./../../public/img/project/THM Reimbursement/thm (2).png",
+      "./../../public/img/project/THM Reimbursement/thm (1).png",
+      "./../../public/img/project/THM Reimbursement/thm (3).png",
+      "./../../public/img/project/THM Reimbursement/thm (4).png",
+      "./../../public/img/project/THM Reimbursement/thm (5).png",
+      "./../../public/img/project/THM Reimbursement/thm (6).png",
+      "./../../public/img/project/THM Reimbursement/thm (7).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "https://github.com/romirahmann/project-nadzra.git",
+        "back_end": "https://github.com/romirahmann/backend-nadzra.git"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tax Flash",
+    "description": "(Client Project). Sistem Tax Flash adalah sebuah aplikasi berbasis website yang bertujuan untuk pembuatan laporan threshold kesebandingan. Webstie ini dibangun menggunakan Angular sebagai frontend dan Node Js untuk Backend.",
+    "completed_date": "",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/tailwind.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/taxFlash/taxFlash (2).png",
+    "img": [
+      "./../../public/img/project/taxFlash/taxFlash (2).png",
+      "./../../public/img/project/taxFlash/taxFlash (1).png",
+      "./../../public/img/project/taxFlash/taxFlash (3).png",
+      "./../../public/img/project/taxFlash/taxFlash (4).png",
+      "./../../public/img/project/taxFlash/taxFlash (5).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "",
+        "back_end": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sistem Monitoring AL4",
+    "description": "Sistem ini merupakan hasil kolaborasi saya dengan seorang teman selama magang di PT Amerta Indah Otsuka sebagai web developer. Saya bertanggung jawab atas pengembangan modul E-Learning SOP dan Maintenance Part. Proyek ini dikerjakan secara fullstack, menggunakan Angular sebagai framework untuk frontend dan Node.js untuk backend.",
+    "completed_date": "",
+    "techStack": [
+      "./../../public/img/texhStack/Angular.png",
+      "./../../public/img/texhStack/NodeJs.png",
+      "./../../public/img/texhStack/boostrap.png"
+    ],
+    "category": 2,
+    "thumbnail": "./../../public/img/project/monitoringAl4/monitoringAL4 (2).png",
+    "img": [
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (2).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (1).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (3).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (4).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (5).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (6).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (7).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (8).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (9).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (10).png",
+      "./../../public/img/project/monitoringAl4/monitoringAL4 (11).png"
+    ],
+    "repository": [
+      {
+        "live_demo": "",
+        "front_end": "https://github.com/romirahmann/frontend-al4.git",
+        "back_end": "https://github.com/romirahmann/backend-al4.git"
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "perusahaan": "PT Amerta Indah Otsuka",
+    "address": "Kabupaten Sukabumi, Jawa Barat",
+    "description": "Full Stack Web Developer Intern",
+    "start_date": "July, 11 2023",
+    "end_date": "Januari, 10 2024",
+    "position": ""
+  },
+  {
+    "id": 2,
+    "perusahaan": "Participant Hackfest",
+    "address": "Google Development Student Club Indonesia",
+    "description": "Hacker/Developer",
+    "start_date": "December, 20 2023",
+    "end_date": "Januari, 22 2024",
+    "position": ""
+  },
+  {
+    "id": 3,
+    "perusahaan": "Dewan Perwakilan Mahasiswa",
+    "address": "Sekolah Vokasi IPB University",
+    "description": "Head Of External Division",
+    "start_date": "November 2021",
+    "end_date": "November 2022",
+    "position": ""
+  },
+  {
+    "id": 4,
+    "perusahaan": "Olivia Competition",
+    "address": "Universitas Negeri Yogyakarta",
+    "description": "Design Website",
+    "start_date": "2022",
+    "end_date": "2022",
+    "position": "Juara Harapan 2"
+  }
+]
