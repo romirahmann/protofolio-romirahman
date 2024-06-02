@@ -9,7 +9,7 @@
       "./../../public/img/texhStack/tailwind.png"
     ],
     "category": 1,
-    "thumbnail": "/public/img/project/project.png",
+    "thumbnail": "./../../public/img/project/project.png",
     "img": [
       "./../../public/img/project/personalPortofolio/porto (3).png",
       "./../../public/img/project/personalPortofolio/porto (2).png",
