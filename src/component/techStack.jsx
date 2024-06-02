@@ -13,7 +13,7 @@ export default function TechStack() {
       <div className="container p-0 overflow-x-hidden">
         <div className="techLogo p-4 md:p-8 rounded-[1em] bg-[#0C0C17] grid grid-cols-1 md:grid-cols-7 place-items-center">
           <img
-            src="./../../public/img/html.png"
+            src="/img/html.png"
             className="w-10 m-2 md:m-0 max-w-full "
             alt=""
             style={grayscaleStyle}
@@ -25,7 +25,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/css.png"
+            src="/img/css.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
@@ -37,7 +37,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/js.png"
+            src="/img/js.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
@@ -49,7 +49,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/tailwind.png"
+            src="/img/tailwind.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
@@ -61,7 +61,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/node.png"
+            src="/img/node.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
@@ -73,7 +73,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/angular.png"
+            src="/img/angular.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
@@ -85,7 +85,7 @@ export default function TechStack() {
             }
           />
           <img
-            src="./../../public/img/react.png"
+            src="/img/react.png"
             className="w-10 m-2 md:m-0 max-w-full"
             alt=""
             style={grayscaleStyle}
