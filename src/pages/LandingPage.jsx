@@ -23,7 +23,7 @@ export default function LandingPage() {
         <PortofolioSection />
       </section>
 
-      <section id="about" className="about ">
+      <section id="about" className="about">
         <AboutSection />
       </section>
 

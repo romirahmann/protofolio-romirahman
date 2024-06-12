@@ -21,7 +21,7 @@ export default function AboutSection() {
             <img
               data-aos="fade-up"
               src="/img/hero-foto.png"
-              className="w-[20em] max-w-full"
+              className="w-[14em] md:w-[20em] max-w-full"
               alt=""
             />
             <h1
@@ -60,7 +60,11 @@ export default function AboutSection() {
               </motion.div>
             </div>
           </div>
-          <div data-aos="fade-left" className="experience flex justify-center">
+          <div
+            data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom"
+            className="experience flex justify-center"
+          >
             <div className="bg-[#10101E] p-5 md:p-0 rounded-2xl text-white">
               <h1 className="text-4xl md:p-5 font-extrabold">
                 <span className=" decoration-secondary underline underline-offset-8">
