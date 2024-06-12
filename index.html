@@ -2,9 +2,23 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Portofolio</title>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-HN9RY72NPF"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-HN9RY72NPF");
+    </script>
   </head>
   <body class="font-primary">
     <div id="root"></div>
@@ -14,6 +28,7 @@
       src="https://kit.fontawesome.com/7016843f62.js"
       crossorigin="anonymous"
     ></script>
+
     <link rel="stylesheet" href="bower_components/aos/dist/aos.css" />
   </body>
 </html>
