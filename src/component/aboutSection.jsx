@@ -37,11 +37,13 @@ export default function AboutSection() {
               Web Developer
             </h1>
             <p data-aos="fade-up" className="text-center mx-2 my-4 md:mx-10">
-              As a final year student of IPB University Software Engineering
-              Technology. I am very interested in technology, especially website
-              development. I have gained significant experience as a full-stack
-              web developer through internships or personal projects. I am used
-              to working as a team or individually in website development.
+              I am a fresh graduate from Bogor Agricultural Institute majoring
+              in Software Engineering Technology. I have a high interest in
+              technology, and follow technological developments, especially in
+              the field of Web Developer. I also have experience as a web
+              developer from internship programs and freelance projects that I
+              have handled. I am very good at working in a team, and able to
+              speak in front of many people.
             </p>
             <div data-aos="fade-right" className="btn">
               <ButtonDownloadCv />
