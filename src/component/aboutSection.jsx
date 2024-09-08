@@ -50,7 +50,7 @@ export default function AboutSection() {
             </div>
             <div className="socialMedia mt-5 flex justify-center">
               <motion.div whileHover={{ scale: 1.2 }}>
-                <a href="https://www.linkedin.com/in/rr-mannn/">
+                <a href="https://www.linkedin.com/in/romirahman/">
                   <i className="fa-brands fa-linkedin text-[#0A66C2] text-4xl mx-2"></i>
                 </a>
               </motion.div>

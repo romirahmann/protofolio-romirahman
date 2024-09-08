@@ -36,7 +36,7 @@ export default function ContactSection() {
               <h1 className="text-4xl font-extrabold">Social Media</h1>
               <div className="itemSosmed flex md:mt-5">
                 <motion.div whileHover={{ scale: 1.2 }}>
-                  <a href="https://www.linkedin.com/in/rr-mannn/">
+                  <a href="https://www.linkedin.com/in/romirahman/">
                     <i className="fa-brands fa-linkedin text-[#0A66C2] text-4xl mx-2"></i>
                   </a>
                 </motion.div>
